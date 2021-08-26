@@ -1,7 +1,7 @@
 {
   "name": "homework-09-readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "*[Description](#description) *[Installation](#installation) *[Usage](#usage) *[Tests](#tests) *[License](#license) *[Contributors](#contributors) # Description This readme.md was generated using node.js and javascript. The program will prompt a user with several questions and generate a professional readme file based on their responses. ## Installation In order to run this program you must initialize npm on your terminal and then install inquirer <npm install inquirer>. After that simply type in <node index.js> into the terminal. ### Usage Use this application to quickly generate professional readme files with only a few lines of input. ## Licenses MIT https://opensource.org/licenses/MIT ## Contributors Yes # Contributor Code of Conduct",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,6 @@
   "homepage": "https://github.com/IGuessImNick/homework-09-readme-generator#readme",
   "dependencies": {
     "inquirer": "^8.1.2"
-  }
+  },
+  "devDependencies": {}
 }
